@@ -2,7 +2,7 @@
 
 # QuizBot
 
-[![Build Status](https://travis-ci.com/antonykamp/QuizBot.svg?token=KLyVgPMWyiqQ3RqyF6uP&branch=master)](https://travis-ci.com/antonykamp/QuizBot)
+[![Build Status](https://github.com/BWFXMUSIC/QUIZ.svg?token=KLyVgPMWyiqQ3RqyF6uP&branch=master)](https://travis-ci.com/antonykamp/QuizBot)
 [![Documentation Status](https://readthedocs.org/projects/quizbot/badge/?version=latest)](https://quizbot.readthedocs.io/en/latest/?badge=latest)
 [![Coverage Status](https://coveralls.io/repos/github/antonykamp/QuizBot/badge.svg?branch=master)](https://coveralls.io/github/antonykamp/QuizBot?branch=master)
 
